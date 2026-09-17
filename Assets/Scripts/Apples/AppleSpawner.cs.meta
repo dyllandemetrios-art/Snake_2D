@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 802fc001145ea584380a69a5f3d019ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - grid: {instanceID: 0}
+  - adamApplePrefab: {fileID: 897773251311637724, guid: 2ba4d57bac713ef42bc92c0e84a12a4d, type: 3}
+  - eveApplePrefab: {fileID: 897773251311637724, guid: 07f89368a1a4df74db82b32d11a7ce75, type: 3}
+  - lilithApplePrefab: {fileID: 897773251311637724, guid: f53a4fdb3463f7f4db24ef031902511f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
